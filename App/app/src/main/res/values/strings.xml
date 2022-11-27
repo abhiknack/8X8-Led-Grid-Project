@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grid Control</string>
+    <string name="b_percentage">10 %</string>
+    <string name="greet">Hello Friend</string>
+</resources>
