@@ -4,7 +4,11 @@
 ![alt text](https://github.com/abhiknack/8X8-Led-Grid-Project/blob/main/Gallery/project.jpeg?raw=true)
 ### The App
 ![alt text](https://github.com/abhiknack/8X8-Led-Grid-Project/blob/main/Gallery/app.jpeg?raw=true)
-https://user-images.githubusercontent.com/69189340/210231525-43b3fc98-1086-4e7d-9e7c-5a9f60e3d7a2.mp4
+
+
+https://user-images.githubusercontent.com/69189340/210231614-4239fdbe-ed8a-44ba-ab77-8a5d2be1a6d9.mp4
+
+
 
 ### Video
 https://user-images.githubusercontent.com/69189340/205477044-fc266031-7c87-4454-9831-d48246770f3a.mp4
